@@ -1,0 +1,12 @@
+// Fiz uma analise de sentimentos usando o Language Studio da microsoft.
+// Usando como referençia profissionais que trabalham ou ja trabalharam para a AvanadeBrasil.
+
+// Pesquisa que usei como referençi:
+
+// Funcionários da Avanade Brasil compartilham experiências positivas sobre a empresa. Por exemplo, um Analista de Testes Sênior destaca que a empresa oferece um plano de carreira estruturado, ótimos benefícios e um ambiente de trabalho leve, com oportunidades de desenvolvimento por meio de certificações e cursos. No entanto, ele observa que o salário poderia ser mais competitivo. 
+INDEED
+Outro colaborador, atuando como Desenvolvedor Back-End, enfatiza a estabilidade da empresa e as oportunidades de crescimento e aprendizado. Ele também menciona o foco social da Avanade, que mantém contato constante com os funcionários, mesmo quando alocados em projetos. 
+INDEED
+Além disso, a Avanade valoriza o desenvolvimento profissional de seus colaboradores. Raíza Sousa, Diretora na empresa, compartilha que trabalhar na Avanade proporciona espaço e oportunidades para se desafiar, contando com líderes e mentores que estimulam o melhor desempenho. 
+AQUI SEU NOVO EMPREGO ACHA VOCÊ | REVELO
+Essas avaliações refletem um ambiente de trabalho que valoriza o crescimento profissional e oferece benefícios competitivos, embora haja sugestões de melhorias em aspectos como remuneração e comunicação interna.
